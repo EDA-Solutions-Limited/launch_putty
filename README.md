@@ -86,7 +86,7 @@ The following python libraries are required.
 2. You could also clone the repo
    ```sh
    git clone https://github.com/EDA-Solutions-Limited/launch_putty.git
-3. Ensure you edit the createINI function in [**launchputty.py**](https://github.com/EDA-Solutions-Limited/launch_putty/launchputty.py) to your own desired default ini file.
+3. Ensure you edit the createINI function in [**launchputty.py**](https://github.com/EDA-Solutions-Limited/launch_putty/blob/main/launchPutty.py) to your own desired default ini file.
 
 <!-- MAKING CHANGES -->
 ## Making Changes
