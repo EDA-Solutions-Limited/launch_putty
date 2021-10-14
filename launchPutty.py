@@ -266,8 +266,8 @@ def readDisplay(fname):
 		print('Caught error: ' + repr(error))
 		tmp = input("Press Enter to escape program")
 		exit()
-
-main()
+if __name__ == "__main__":
+	main()
 
 
 
