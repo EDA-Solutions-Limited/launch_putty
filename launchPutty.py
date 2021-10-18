@@ -1,3 +1,42 @@
+################################################################################
+# Name: launchPutty.py                                                         #
+# Purpose: configure putty Xming display number, VNC number and launch putty   #
+#                                                                              #
+# Release: 03/Aug/2021                                                         #
+# Author: Henry Frankland @ EDA Solutions Ltd.                                 #
+# Contact: Support@eda-solutions.com                                           #
+#                                                                              #
+# Please use this script at your own discretion and responsbility. Eventhough  #
+# This script was tested and passed the QA criteria to meet the intended       #
+# specifications and behaviors upon request, the user remains the primary      #
+# responsible for the sanity of the results produced by the script.            #
+# The user is always advised to check the imported design and make sure the    #
+# correct data is present.                                                     #
+#                                                                              #
+# For further support or questions, please e-mail support@eda-solutions.com    #
+#                                                                              #
+# Test platform version: S-Edit 2021.2 Update 0 Release build                  #
+################################################################################
+# --------------------------
+# Installation:- 
+# --------------------------
+# run the executable from a location where the user has access writes
+# --------------------------
+# Usage:-
+# --------------------------
+# 3. run the setup_user.exe to launch putty
+# --------------------------
+# Notes:
+# --------------------------
+# 1. Script needs putty to be added to enviroment variable path.
+################################################################################
+#########################################################################
+#                                                                       #
+#   History:                                                            #
+#   Version 0.0 |- Created  script                                      #
+#           1.0 | 08/10/2021 - Script compleated                        #
+#########################################################################
+
 import subprocess
 import paramiko
 import os
