@@ -3,10 +3,9 @@
 # Purpose: configure putty Xming display number, VNC number and launch putty   #
 #                                                                              #
 # Release: 03/Aug/2021                                                         #
-# Author: Henry Frankland @ EDA Solutions Ltd.                                 #
 # Contact: Support@eda-solutions.com                                           #
 #                                                                              #
-# Please use this script at your own discretion and responsbility. Eventhough  #
+# Please use this script at your own discretion and responsbility. Even though #
 # This script was tested and passed the QA criteria to meet the intended       #
 # specifications and behaviors upon request, the user remains the primary      #
 # responsible for the sanity of the results produced by the script.            #
