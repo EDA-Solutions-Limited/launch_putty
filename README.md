@@ -89,10 +89,7 @@ The following python libraries are required.
 3. Ensure you edit the createINI function in [**launchputty.py**](https://github.com/EDA-Solutions-Limited/launch_putty/blob/main/launchPutty.py#L179-L198) to your own desired default ini file.
 
 ### Notes:
-1. For obtaining the VNC port number the script relise on the name of the service name to get the display number, ensure to name to dedicate the display file like the following: vncerver-jBlog@:1.service, vncserver-jallen@:3.service
-
-<!-- MAKING CHANGES -->
-## Making Changes
+1. For obtaining the VNC port number the script relies on the name of the service name to get the display number, ensure to name to dedicate the display file like the following: vncerver-jBlog@:1.service, vncserver-jallen@:3.service
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -116,11 +113,11 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Not to be distributed to anyone outside EDA solutions. 
+MIT License
 
 <!-- CONTACT -->
 ## Contact
 
-Henry Frankland - [@hfrank](https://www.linkedin.com/in/henry-frankland-asic/) - henryfrankland@eda-solutions.com - henry@franklandhome.co.uk
+Support - github@eda-solutions.com
 
 Project Link: [launch_putty](https://github.com/EDA-Solutions-Limited/launch_putty.git)
